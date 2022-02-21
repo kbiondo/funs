@@ -1,0 +1,6 @@
+{
+    "workbench.editor.revealIfOpen": true,
+    "window.autoDetectColorScheme": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "git.autoStash": true
+}
