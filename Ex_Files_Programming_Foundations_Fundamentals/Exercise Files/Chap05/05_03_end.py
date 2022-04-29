@@ -1,3 +1,6 @@
+from multiprocessing.sharedctypes import Value
+
+
 def wash_car(amount_paid):
     if (amount_paid == 12):
         print("Wash with tri-color foam")
@@ -9,4 +12,5 @@ def wash_car(amount_paid):
         print("Rinse once")
         print("Air dry") 
 
-wash_car(6) 
+balue = int(input("choose either 6 or 12"))
+wash_car(balue)
