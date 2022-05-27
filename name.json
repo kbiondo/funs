@@ -1,0 +1,99 @@
+{
+  "resultholder": {
+    "totalResults": "1",
+    "numReturned": "1",
+    "profiles": {
+      "profileholder": {
+        "skills": "aerospace engineering, mentoring, strategy development, design of experiments, mechanical engineer, creativity, microsoft - project, project management, empathy, curiosity, collaboration, robotics, trade study, automation, judgment and decision making, interpersonal skills, conceptual design, decision making, consulting, prototyping, boris, metrology, product development, communication, as9100, model based engineering, geometric dimensioning and tolerance, strategic thinking, strategic planning, leadership, technical writing, microsoft - windows, complex problem solving, emotional intelligence, troubleshooting, teamwork, critical thinking, research and development, problem solving, coordinating with others, risk management, portfolio management, microsoft office suite, conflict resolution, statistical process control, social intelligence, risk assessment, novel thinking, integrity, organizational development, process engineering, process development, production engineering, solidworks, computer networks",
+        "lastUpdated": "2022-04-29T03:44:03.000Z",
+        "product": {
+          "name": [
+            "777 Airplane Family",
+            "Developmental Airplane Program",
+            "777X Airplane Program"
+          ]
+        },
+        "created": "2012-09-06T22:30:34.000Z",
+        "profileid": "342188",
+        "imageUrl": "/pi/2251633-167521-75w.jpg",
+        "bio": "",
+        "mentorStatus": "Engaged/Available",
+        "sme": {
+          "tag": [
+            "tolerance analysis",
+            "dimensional management (dm)",
+            "metrology"
+          ]
+        },
+        "id": "342188",
+        "desiredSkills": "",
+        "user": {
+          "country": "USA",
+          "zipCode": "98204-1404",
+          "businessUnit": "CORP",
+          "accountingDeptNumber": "EB1A",
+          "cedDataSource": "bps",
+          "shift": "1",
+          "jobTitle": "Manufacturing Engineer (Assembly and Installation)",
+          "section": "Future Prod Studies & Architecture",
+          "educations": {
+            "education": {
+              "date": "2012-01-01T08:00:00.000Z",
+              "major": "Engineering Mechanical & Aerospace",
+              "school": "Montana State University",
+              "type": "Bachelor's Degree or Equivalent"
+            }
+          },
+          "program": "BCA Engineering",
+          "type": "bps",
+          "building": "45-802",
+          "division": "Engineering Test & Technology",
+          "emailAddress": "kyle.biondich@boeing.com",
+          "jobFamilyName": "Manufacturing Engineer (6H)",
+          "latlon": "47.908001, -122.266998",
+          "skillsMgmtName": "Assembly and Installation",
+          "subSection": "Production Ops Analysis",
+          "id": "254009852",
+          "assignedDeptIdDescription": "Production Ops Analysis",
+          "state": "WA",
+          "subProgram": "Vice President BCA Future Production Systems",
+          "mailCode": "0ER-103",
+          "altWorkPhone": "+1 (406) 4806330",
+          "assignedDeptDescription": "MAJOR ASSEMBLY PD",
+          "nickName": "Kyle",
+          "assignedDeptId": "6055735",
+          "firstName": "Kyle",
+          "workLocationCode": "WA004",
+          "directIndirect": "D",
+          "mobilePhone": "+1 (425) 2203670",
+          "phone": "+1 (425) 2203670",
+          "status": "ACTIVE",
+          "lastName": "Biondich",
+          "googleMapURL": "http://maps.google.com/?q=9902 24th Pl West,Everett,WA,98204-1404,USA&iwstate1=dir&iwloc=A&z=16&sll=47.908001,-122.266998",
+          "city": "Everett",
+          "occupationName": "Production Engineering (6H)",
+          "siteMapURL": "http://sitemaps.web.boeing.com/SiteMapsDocs/pdf/was/3everett.pdf",
+          "enterpriseBuildingId": "45-802",
+          "explicitEmail": "kyle.biondich@exchange.boeing.com",
+          "orgGroupName": "President & CEO (CORP)",
+          "accountingDeptDescription": "MAJOR ASSEMBLY PD",
+          "bemsId": "2251633",
+          "accountingBusinessUnit": "BCAG",
+          "company": "The Boeing Company",
+          "floor": "Floor 1",
+          "address": "9902 24th Pl West",
+          "skillsMgmtCode": "66R",
+          "managerFlag": "N",
+          "managerBemsid": "2133314",
+          "userName": "",
+          "room": "3H5-1.7",
+          "usPersonStatusString": "U. S. PERSON",
+          "accountingDeptName": "MAJOR ASSEMBLY PD",
+          "accountingDept": "66-CD-EB1A",
+          "orgStructureCode": "BE4CCD"
+        }
+      }
+    },
+    "firstResult": "0"
+  }
+}
